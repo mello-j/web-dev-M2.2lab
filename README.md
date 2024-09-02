@@ -27,18 +27,20 @@ My Project is relatively basic but meets the functional requirements  as noted i
     - some basic CSS to make it look pretty.
 
 ### Run the Site
-There's really nothing special to get this up and running. To run everything you will need to Fork or Clone this [repository](https://github.com/mello-j/web-dev-M2.2lab) and open in up in an IDE on your local PC or in VS Codespaces.
+There's really nothing special to get this up and running. You can follow the steps listed below or watch this [video walkthrough](https://boisestate.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a99d2f49-480d-41de-8b02-b1dd001f34d6) to get started!
 
-Once you have cloned the Repo, open it up in VS Code.
+1. To run everything you will need to Fork or Clone this [repository](https://github.com/mello-j/web-dev-M2.2lab) and open in up in an IDE on your local PC or in VS Codespaces.
 
-Select the index.html file from the Explorer Window.
+2. Once you have cloned the Repo, open it up in VS Code.
 
-Then, using the VS Code Command Palette, type:
+3. Select the index.html file from the Explorer Window.
+
+4. Then, using the VS Code Command Palette, type:
 `> Live Preview Start Server.`
 
-This will open up a website preview. However in order to see the functionality of the Hi button, you will need to open this in an external browser. To do so click on the 3 lines to the top right of the preview window and select 'Open in Browser'.
+5. This will open up a website preview. However in order to see the functionality of the Hi button, you will need to open this in an external browser. To do so click on the 3 lines to the top right of the preview window and select 'Open in Browser'.
 
-That's it! You can click the Hi button to view a alert dialog window, check out my introduction video, and navigate to my Help page for basically a redundant set of these instructions. The other navigation links are Rick Rolled videos so feel free to avoid them.
+6. That's it! You can click the Hi button to view a alert dialog window, check out my introduction video, and navigate to my Help page for basically a redundant set of these instructions. The other navigation links are Rick Rolled videos so feel free to avoid them.
 
 Enjoy the site! And leave me comments to make it look less ugly in your code review :)
 
